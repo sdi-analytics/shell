@@ -6,6 +6,6 @@
 
 Hello how are you?
 
-```
+```JS
 var test = "test";
 ```
